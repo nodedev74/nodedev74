@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Dev Blog: medium.com/@buelenard
+Dev Blog: [medium.com/@buelenard](https://medium.com/@buelenard)
 
 ### Projects
 
